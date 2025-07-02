@@ -1,3 +1,4 @@
 pandas
 plotly
-st_aggrid
+matplotlib
+streamlit
