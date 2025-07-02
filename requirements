@@ -1,4 +1,5 @@
-pandas
-plotly
-matplotlib
 streamlit
+pandas
+plotly.graph_objects
+plotly.express
+st_aggrid
